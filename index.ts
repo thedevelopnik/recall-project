@@ -15,3 +15,5 @@ async function start() {
     // take meeting actions
     takeActions(botId, event, schedule)
 }
+
+start()
